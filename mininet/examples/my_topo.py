@@ -16,7 +16,7 @@ from uuid import uuid4
 import copy
 import random
 
-switch_start = 0   # switch startls
+switch_start = 0   # switch starts
 switch_end = 10    # switch end   <=254
 host_start = 1     #host ip start  >=1
 host_end = 10      # host ip end <=254
